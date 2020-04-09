@@ -1,1 +1,4 @@
+# ignore the env file
 /.env
+#ignore the dependency
+/node_modules
